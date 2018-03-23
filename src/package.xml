@@ -2,7 +2,7 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>tdxtest</fullName>
     <types>
-        <members>Course_Offering__c.Language__c</members>
+        <members>hed__Course_Offering__c.Language__c</members>
         <name>CustomField</name>
     </types>
     <version>42.0</version>
