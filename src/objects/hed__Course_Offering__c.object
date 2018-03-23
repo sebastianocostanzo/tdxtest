@@ -30,12 +30,5 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
-    <fields>
-        <fullName>checkboxField__c</fullName>
-        <defaultValue>false</defaultValue>
-        <externalId>false</externalId>
-        <label>checkboxField</label>
-        <trackTrending>false</trackTrending>
-        <type>Checkbox</type>
-    </fields>
+    
 </CustomObject>
