@@ -2,6 +2,7 @@
 <CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
     <fields>
         <fullName>Language__c</fullName>
+        <deprecated>false</deprecated>
         <externalId>false</externalId>
         <label>Language</label>
         <required>false</required>
@@ -28,5 +29,13 @@
                 </value>
             </valueSetDefinition>
         </valueSet>
+    </fields>
+    <fields>
+        <fullName>checkboxField__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>checkboxField</label>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
     </fields>
 </CustomObject>
